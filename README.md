@@ -50,18 +50,18 @@ run these bat[windows] or bash[linux] script in this order
 ```
 https://github.com/Miraj13123/java-default/tree/main
 ```
-[https://github.com/Miraj13123/java-default/tree/main](https://github.com/Miraj13123/java-default/tree/main)
+[https://github.com/Miraj13123/java-default](https://github.com/Miraj13123/java-default)
 
 ---
 ### For advanced users:
 ```
 https://github.com/Miraj13123/java-advanced/tree/main
 ```
-[https://github.com/Miraj13123/java-advanced/tree/main](https://github.com/Miraj13123/java-advanced/tree/main)
+[https://github.com/Miraj13123/java-advanced](https://github.com/Miraj13123/java-advanced)
 
 ---
 ### If you want to setup:
 ```
 https://github.com/Miraj13123/java-setup/tree/main
 ```
-[https://github.com/Miraj13123/java-setup/tree/main](https://github.com/Miraj13123/java-setup/tree/main)
+[https://github.com/Miraj13123/java-setup](https://github.com/Miraj13123/java-setup)
